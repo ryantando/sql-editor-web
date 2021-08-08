@@ -24,23 +24,7 @@ a {
 }
 
 /**************** TABLE **********************/
-/* 
-.table-style > table {
-  border-spacing: 0;
-  border: 1px solid #e4e4e4;
-}
 
-.table-style > table th,
-td {
-  margin: 0;
-  padding: 1rem;
-  border-bottom: 1px solid #e4e4e4;
-  border-right: 1px solid #e4e4e4;
-}
-
-.table-style .pagination {
-  padding: 0.5rem;
-} */
 .table-style {
   font-size: 0.825rem;
   /* padding: 1rem; */
